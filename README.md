@@ -1,3 +1,5 @@
+![alt text](https://github.com/WanderlustKing11/WanderlustKing11/blob/main/images/dbg1.png)
+
 ### Hello, world! 👋
 
 I am working on becomeing a professional full stack developer, currently specializing in frontend.
