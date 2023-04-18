@@ -2,21 +2,21 @@
 
 ### Hello, world! 👋
 
-I am working on becomeing a professional full stack developer, currently specializing in frontend.
+I am working on becoming a professional full stack developer, currently specializing in frontend.
 
-- 🔭 Technical Skills: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, GSAP, jQuery, Node, Express, ...
+- 🔭 Technical Skills: WindowsOS, Linux, Bash, HTML, CSS, JavaScript, TypeScript, Node, Express, MongoDB, Bootstrap, Tailwind, GSAP, jQuery,  ... and more!
 
-- 🚀 Right now I'm working on a new web app powered by APIs, using Node to interact with JSON files.
+- 🚀 Right now I'm currently working on a website to register the guests to my wedding! I want to add fun features, such as video, and talk to the Spotify API so that guests can add songs to our playlist. 
 
-- 🪐 I'm currently learning about git and heading into React.
+- 🪐 I'm currently learning about integrating REST API with React.
 
 - 🚻 I'm looking to collaborate on any kind of JavaScript project.
 
 - 💬 Feel free to contact me at douglashorville@gmail.com, or click on my LinkedIn in my profile.
 
-- 👾 Fun facts: I'm an Americanized Frenchman, I love to travel, I speak English, French, Chinese, and some Spanish, I've trained in mixed martial arts for almost 20 years, I have a black belt in BJJ, I love video games, especially FPS.
+- 👾 Fun facts: I'm an Americanized Frenchman. I love to travel. I speak English, French, Chinese, and some Spanish. I've trained in mixed martial arts for 20 years as of this year! I have a black belt in BJJ. And I love video games, especially FPS's.
 
-- 👹 Feel free to use my repos however you want. Some of them are small projects oriented to help me learn something specific. Hope you enjoy them.
+- 👹 Feel free to use my repos however you want. They're almost all some type of small project oriented to help me learn something specific. Some of them are inspired by online courses. Others are simply me trying to break things. Hope you enjoy them!
 
 <!--
 **WanderlustKing11/WanderlustKing11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
